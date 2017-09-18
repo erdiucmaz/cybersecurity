@@ -1,0 +1,15 @@
+# -*- coding: cp1254 -*-
+
+#Yorum Satýrý
+'''çoklu açýklama'''
+
+print 'Kapý\'nýn Kolu'
+
+isim = "Erdi"
+soyisim = "Uçmaz"
+telefon = "0850 000 11 22"
+
+print "ad = %s, soyisim = %s, telefon = %s" %(isim,soyisim,telefon)
+
+
+
